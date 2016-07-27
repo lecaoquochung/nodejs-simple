@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-simple",
+  "version": "1.0.0",
+  "description": "Simple Nodejs Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lecaoquochung/nodejs-simple.git"
+  },
+  "keywords": [
+    "Simple",
+    "Nodejs"
+  ],
+  "author": "lecaoquochung@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lecaoquochung/nodejs-simple/issues"
+  },
+  "homepage": "https://github.com/lecaoquochung/nodejs-simple#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "nodemailer": "^2.5.0",
+    "path": "^0.12.7"
+  }
+}
